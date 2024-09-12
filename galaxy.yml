@@ -1,0 +1,16 @@
+---
+namespace: scaleuptechnologies
+name: openstack_quota
+version: 1.0.0
+readme: README.md
+authors:
+  - Freerk-Ole Zakfeld <fzakfeld@scaleuptech.com>
+description: An ansible collection for managing misc OpenStack Quotas
+license:
+  - MIT
+tags: []
+dependencies: {}
+repository: https://github.com/ScaleUp-Technologies/ansible-collection-openstack-misc-quota
+documentation: https://github.com/ScaleUp-Technologies/ansible-collection-openstack-misc-quota
+homepage: https://github.com/ScaleUp-Technologies/ansible-collection-openstack-misc-quota
+issues: https://github.com/ScaleUp-Technologies/ansible-collection-openstack-misc-quota/issues
